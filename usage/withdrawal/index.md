@@ -1,3 +1,9 @@
+---
+layout: default
+title: 出金するには
+permalink: /usage/withdrawal/
+---
+
 ## 出金するには
 
 公式サイトに登録します。
@@ -31,7 +37,7 @@ whoops, something went wrongのような画面が出た場合は、再読込を�
 
 今回は出金を行いますので出金したいトークンの残高を確認します。
 
-tipwavesからの出金には、一律で 0.01WAVES の手数料がかかります。
+Tipwavesからの出金には、一律で 0.01WAVES の手数料がかかります。
 このため、出金するもの + 0.01WAVESの残高が必要となり、
 これが足りない場合は残高不足エラーとなりますので注意してください。
 
@@ -42,7 +48,7 @@ balance all コマンドを使用するなどして、DMが受け取れること
 ここで、出金先のアドレス、出金したいアセット（トークン）のid、出金する量を指定します。
 ただし、WAVESを送金する場合は、asset idに WAVES を指定してください。
 
-出金ボタンを押すと、tipwaves からDMが送られてきます。
+出金ボタンを押すと、Tipwaves からDMが送られてきます。
 DMの内容は以下のようなものです。
 
 出金リクエストが有りました。承認するにはwithdrawal idとピンコードを入力してください。
@@ -55,7 +61,7 @@ pincode: 1111
 このDMを受け取ったら、先程のアカウント画面の下部にある「出金承認画面へ」ボタンを押します。
 すると以下のような画面になります。
 
-![出金承認画面](images/withdrawal-confirm.png)
+![出金承認画面](/assets/images/withdrawal-confirm.png)
 
 ここに、先ほど受け取ったDMに記載されているwithdrawal idとpincodeを入力します。2fa codeを設定している場合は2fa codeも入力します。
 
