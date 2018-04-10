@@ -17,7 +17,7 @@ title: Tipwaves
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Tipwavesの使用法を紹介します
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://tipwaves.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tipwaves
 github_username:  tipwaves
