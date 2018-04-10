@@ -22,8 +22,16 @@ tipwavesに対して
 tipwaves専用入金アドレス
 3PJfNWzWVCHVYhE8tYdwYJZ9zQeiHSxmxis に対して入金をしますが、このとき Attachment / Description（クライアントによって表記が異なります）に先の入金タグを入力します。
 
+<<<<<<< HEAD
 ![送金画面](../../images/deposit-send.png)
 
 送金を行うと、tipwavesからダイレクトメッセージが届きます。それから暫く待つと、入金が承認され、利用できるようになります。
 
 ![DM受信](../../images/deposit-send-dm.png)
+=======
+![送金画面](/images/deposit-send.png)
+
+送金を行うと、tipwavesからダイレクトメッセージが届きます。それから暫く待つと、入金が承認され、利用できるようになります。
+
+![DM受信](/images/deposit-send-dm.png)
+>>>>>>> 535d19ef2e41626efe23d2df89b3b8898c23ec21
