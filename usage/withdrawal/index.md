@@ -61,7 +61,7 @@ pincode: 1111
 このDMを受け取ったら、先程のアカウント画面の下部にある「出金承認画面へ」ボタンを押します。
 すると以下のような画面になります。
 
-![出金承認画面](/assets/images/withdrawal-confirm.png)
+![出金承認画面](/images/withdrawal-confirm.png)
 
 ここに、先ほど受け取ったDMに記載されているwithdrawal idとpincodeを入力します。2fa codeを設定している場合は2fa codeも入力します。
 
