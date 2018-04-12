@@ -6,7 +6,7 @@ permalink: /usage/balance/
 
 ## 残高を確認するには
 tipwavesに対して
-> @tipwaves balance all
+> @tipwaves balance all  
 と送信します  
 するとDMに結果が受信できます。
 
