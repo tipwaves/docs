@@ -13,3 +13,4 @@ Tipwaves の使用法を紹介します
 - [入金するには](usage/deposit)
 - [出金するには](usage/withdrawal)
 - [投げ銭するには](usage/tip)
+- [残高を確認するには](usage/balance)
