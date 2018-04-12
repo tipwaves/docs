@@ -20,7 +20,7 @@ tipwavesに対して
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">[info] 入金先アドレスは<br>3PJfNWzWVCHVYhE8tYdwYJZ9zQeiHSxmxis</p>&mdash; tipwaves(β版) (@tipwaves) <a href="https://twitter.com/tipwaves/status/939738236867317762?ref_src=twsrc%5Etfw">2017年12月10日</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 tipwaves専用入金アドレス
-3PJfNWzWVCHVYhE8tYdwYJZ9zQeiHSxmxis に対して入金をしますが、このとき Attachment / Description（クライアントによって表記が異なります）に先の入金タグを入力します。
+`3PJfNWzWVCHVYhE8tYdwYJZ9zQeiHSxmxis` に対して入金をしますが、このとき Attachment / Description（クライアントによって表記が異なります）に先の入金タグを入力します。
 
 ![送金画面](../../images/deposit-send.png)
 
