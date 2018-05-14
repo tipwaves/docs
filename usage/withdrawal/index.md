@@ -9,8 +9,12 @@ permalink: /usage/withdrawal/
 公式サイトに登録します。
 <https://tipwaves.pinfort.me>
 
+![登録画面](../../images/register-top.png)
+
 登録画面はこちらです。
 <https://tipwaves.pinfort.me/auth/register>
+
+![登録画面2](../../images/register-second.png)
 
 登録を行うと、メールが送られてきます。ドメイン指定受信等を行っている場合、
 mail.tipwaves.pinfort.me からの受信が可能な状態にしてください。
@@ -23,10 +27,14 @@ mail.tipwaves.pinfort.me からの受信が可能な状態にしてください�
 ログイン画面は以下です。
 <https://tipwaves.pinfort.me/auth/login>
 
+![ログイン画面](../../images/login.png)
+
 2facodeはまだ設定していないので無視で結構です。
 
 ユーザーホームに入ったら、「接続」タブのtwitterをクリックします。
 認証画面が出てくるので、内容を確認し認証します。
+
+![接続画面](../../images/connect.png)
 
 ホームに戻ると、「Linked」タブに twitter: xxxxxx のようなリンクが追加されています。
 これをクリックすると、アカウントの画面に遷移します。
